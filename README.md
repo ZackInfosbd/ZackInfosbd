@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, i am Zakaria welcome to my github profile
+
+#### A versatile developer proficient in a wide range of JavaScript and TypeScript technologies, adept at crafting both web and cross-platform mobile applications.
 
 <!--
 **ZackInfosbd/ZackInfosbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
