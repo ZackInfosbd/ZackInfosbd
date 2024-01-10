@@ -5,7 +5,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 <!-- [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaspergabriel/) &nbsp; -->
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin) &nbsp;
+![LinkedIn](https://skillicons.dev/icons?i=linkedin) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:zackinfosbd@gmail.com?subject=Hello%20Zack,%20From%20Github)
 
 </div>
