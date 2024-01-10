@@ -1,9 +1,11 @@
 <div align="center">
 
-[![Hello World, I'm Zakaria!](assets/header.gif)](https://github.com/kshyun28)
+[![Hello World, I'm Zakaria!](assets/header.gif)](https://github.com/ZackInfosbd)
 Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaspergabriel/) &nbsp;
+<!-- [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaspergabriel/) &nbsp; -->
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)] &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:zackinfosbd@gmail.com?subject=Hello%20Zack,%20From%20Github)
 
 </div>
